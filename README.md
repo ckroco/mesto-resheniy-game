@@ -1,7 +1,6 @@
 # Mesto Resheniy | Interactive Career Exploration Game
 
-<!-- When README.ru.md is ready, add the visible language switch here:
-[English](README.md) | [Русская версия](README.ru.md)
+**English** | [Русский](Mesto_Resheniy_README_RU.md)
 -->
 
 **Explore possibilities. Make decisions. Grow your own decision tree.**
